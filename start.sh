@@ -1,1 +1,1 @@
-/app/.scalingo/python/bin/python3
+python3 update.py && python3 -m bot
